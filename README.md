@@ -28,8 +28,7 @@ Satisfiability via End-to-End Learning</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Combinatorial-Optimization-ML-Papers/blob/master/c(15).pdf" style="text-decoration:none;">Differentiation of Blackbox Combinatorial Solvers</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Combinatorial-Optimization-ML-Papers/blob/master/c(16).pdf" style="text-decoration:none;">LRC: Dependency-Aware Cache Management
-for Data Analytics Clusters</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Combinatorial-Optimization-ML-Papers/blob/master/c(16).pdf" style="text-decoration:none;">Combinatorial Optimization Problems Related to Machine Learning Techniques</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Combinatorial-Optimization-ML-Papers/blob/master/c(17).pdf" style="text-decoration:none;">A Learning-based Iterative Method for Solving Vehicle Routing Problems</a></li>   
   
@@ -134,7 +133,7 @@ for Data Analytics Clusters</a></li>
  
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Combinatorial-Optimization-ML-Papers/blob/master/c(73).pdf" style="text-decoration:none;">Neural heuristics for SAT solving</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Combinatorial-Optimization-ML-Papers/blob/master/c(74).pdf" style="text-decoration:none;">Can Q-Learning with Graph Networks Learn a Generalizable Branching Heuristic for a SAT Solver?</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Combinatorial-Optimization-ML-Papers/blob/master/c(74).pdf" style="text-decoration:none;">Expressing Combinatorial Optimization Problems by Linear Programs</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Combinatorial-Optimization-ML-Papers/blob/master/c(75).pdf" style="text-decoration:none;">Interior Point Solving for LP-based prediction + optimisation</a></li>                        
 <li><a target="_blank" href="https://github.com/manjunath5496/Combinatorial-Optimization-ML-Papers/blob/master/c(76).pdf" style="text-decoration:none;">Learning Heuristics for Quantified Boolean Formulas through Deep Reinforcement Learning</a></li>
 
